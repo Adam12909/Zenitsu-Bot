@@ -4,19 +4,19 @@ const chalk = require("chalk")
 global.available = true
 global.autoReadGc = true
 global.autoReadAll = false
-global.antitags = true
+global.antitags = false
 
 //aumto functioner
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
+global.Owner = ['96181544124'] //ur number 
+global.OwnerNumber = ['96181544124']
+global.ownertag = ['96181544124']
 global.BotName = "ZenitsuBot" //ur bot name 
 global.packname = "ZenitsuBot"
-global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
+global.author = "adam" //ur sticker pack name 
+global.OwnerName = "adam" //ur name
 global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
 global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
 global.sessionName = "session"
